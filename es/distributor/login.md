@@ -1,6 +1,6 @@
 # Login
 
-!> Para acceder al sistema, usted primero debe estar [registrado] (/distributor/register) como Distribuidor. 
+!> Para acceder al sistema BGS, usted primero debe estar [registrado] (/distributor/register) como Distribuidor. 
 
 
 
